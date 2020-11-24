@@ -3,6 +3,7 @@
 #' @description Get a reference of all tile centroids in a mobility dataset
 #'
 #' @param mob data.frame, Combined mobility data.
+#' 
 #' @param sf boolean, Return an sf object? Defaults to FALSE
 #'
 #' @return tibble
